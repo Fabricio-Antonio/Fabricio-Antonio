@@ -1,6 +1,6 @@
 Eu sou Fabrício, dev
 Front-end. 👨‍💻
-Olá, seja bem-vido(a) ao meu site! ✌️😁
+Olá, seja bem-vido(a) ao meu repositório! ✌️😁
 
 Eu sou Fabrício, jovem iniciante na área de
 programação. Estou me graduando em Análise e
