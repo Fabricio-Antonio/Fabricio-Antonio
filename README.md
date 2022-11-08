@@ -1,5 +1,5 @@
 Eu sou Fabrício, dev
-Front-end. 👨‍💻
+Front-end. 👨‍💻 <br>
 Olá, seja bem-vido(a) ao meu repositório! ✌️😁
 
 Eu sou Fabrício, jovem iniciante na área de
