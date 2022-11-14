@@ -8,7 +8,7 @@ Desenvolvimento de Sistemas, estou no 2º período,
 com previsão de conclusão no 1º período de 2024. 👨‍🎓
 
 Contudo não me restrinjo apenas ao conhecimeto
-ao conhecimento adiquirido no âmbito académico,
+adiquirido no âmbito académico,
 sempre procuro me atualizar e me aprimorar
 também por meio de videos, cursos, comunidades,
 e sites. ✍️📚
