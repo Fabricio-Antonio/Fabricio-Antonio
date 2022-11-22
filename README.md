@@ -12,10 +12,11 @@ Eu sou Fabrício, dev Front-end. man_technologist<br>Olá, seja bem-vido(a) ao m
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-Antonio&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Antonio&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 😂 Dev Meme
+![Captura de tela de 2022-11-22 00-39-51](https://user-images.githubusercontent.com/90152237/203215661-03e06630-0caa-43d4-9d2d-935a043850cc.png)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
   
   ![Snake animation](https://github.com/Fabricio-Antonio/Fabricio-Antonio/blob/output/github-contribution-grid-snake.svg)
 </div>
