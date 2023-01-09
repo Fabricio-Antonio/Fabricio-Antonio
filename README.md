@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre:
 Eu sou Fabrício, dev Front-end.<br>Olá, seja bem-vido(a) ao meu repositório!<br><br>Eu sou Fabrício, jovem iniciante na área de programação. Estou me graduando em Análise e Desenvolvimento de Sistemas, estou no 2º período, com previsão de conclusão no 1º período de 2024.<br>Contudo não me restrinjo apenas ao conhecimeto adiquirido no âmbito académico, sempre procuro me atualizar e me aprimorar também por meio de videos, cursos, comunidades, e sites.
 
 
-## 🌐 Socials:
+## 🌐 Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabricio.ss.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricio-ss) 
 
 # 💻 Tech Stack:
