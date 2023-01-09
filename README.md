@@ -18,4 +18,5 @@ Eu sou Fabrício, dev Front-end.<br>Olá, seja bem-vido(a) ao meu repositório!<
 
 
   
+  ![Snake animation](https://github.com/Fabricio-Antonio/Fabricio-Antonio/blob/output/github-contribution-grid-snake.svg)
 </div>
