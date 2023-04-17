@@ -16,6 +16,6 @@ Eu sou Fabrício, dev Front-end.<br>Olá, seja bem-vido(a) ao meu repositório!<
 ![Captura de tela de 2022-11-22 00-39-51](https://user-images.githubusercontent.com/90152237/203215661-03e06630-0caa-43d4-9d2d-935a043850cc.png)
 
 
-
+![Snake animation](https://github.com/Fabricio-Antonio/Fabricio-Antonio/blob/output/github-contribution-grid-snake.svg)
 
 </div>
