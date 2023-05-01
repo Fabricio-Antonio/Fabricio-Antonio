@@ -1,6 +1,6 @@
 # 💫 Sobre:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Eu+sou+Fabr%C3%ADcio%2C+dev+Front-end.+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-<br>Olá, seja bem-vido(a) ao meu repositório!<br><br>Eu sou Fabrício, jovem iniciante na área de programação. Estou me graduando em Análise e Desenvolvimento de Sistemas, estou no 3º período, com previsão de conclusão no 1º período de 2024.<br>Contudo não me restrinjo apenas ao conhecimeto adiquirido no âmbito académico, sempre procuro me atualizar e me aprimorar também por meio de videos, cursos, comunidades, e sites.
+<br>Olá, seja bem-vindo(a) ao meu repositório!<br><br>Eu sou Fabrício, jovem iniciante na área de programação. Estou me graduando em Análise e Desenvolvimento de Sistemas, estou no 3º período, com previsão de conclusão no 1º período de 2024.<br>Contudo não me restrinjo apenas ao conhecimeto adiquirido no âmbito académico, sempre procuro me atualizar e me aprimorar também por meio de videos, cursos, comunidades, e sites.
 
 
 ## 🌐 Contato:
