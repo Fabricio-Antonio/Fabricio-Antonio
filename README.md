@@ -1,5 +1,5 @@
 # 💫 Sobre:
-<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/90152237/203215661-03e06630-0caa-43d4-9d2d-935a043850cc.png">
+<img align="right" width="325" height="325" src="https://user-images.githubusercontent.com/90152237/203215661-03e06630-0caa-43d4-9d2d-935a043850cc.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Eu+sou+Fabr%C3%ADcio%2C+dev+Front-end.+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
