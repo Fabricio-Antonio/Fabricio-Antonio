@@ -1,5 +1,7 @@
 # 💫 Sobre:
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Eu+sou+Fabr%C3%ADcio%2C+dev+Front-end.+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
 <br>Olá, seja bem-vindo(a) ao meu repositório!<br><br>Eu sou Fabrício, jovem iniciante na área de programação. Estou me graduando em Análise e Desenvolvimento de Sistemas, estou no 3º período, com previsão de conclusão no 1º período de 2024.<br>Contudo não me restrinjo apenas ao conhecimeto adiquirido no âmbito académico, sempre procuro me atualizar e me aprimorar também por meio de videos, cursos, comunidades, e sites.
 
 
@@ -7,6 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabricio.ss.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricio-ss) 
 
 # 💻 Tech Stack:
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -29,14 +32,9 @@
 # 📊 GitHub Status:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-Antonio&theme=vision-friendly-dark&hide_border=false)<br/>
 
+<img align="right" width="409" height="376" src="https://user-images.githubusercontent.com/90152237/203215661-03e06630-0caa-43d4-9d2d-935a043850cc.png">
+
 <img width="495px" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Antonio&show_icons=true&theme=vision-friendly-dark" alt="Fabricio-Antonio stats"/>
 <img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Antonio&layout=compact&theme=vision-friendly-dark" alt="Fabricio-Antonio most languages"/>
-
-
-### 😂 Dev Meme
-![Captura de tela de 2022-11-22 00-39-51](https://user-images.githubusercontent.com/90152237/203215661-03e06630-0caa-43d4-9d2d-935a043850cc.png)
-
-![Snake animation](https://github.com/Fabricio-Antonio/Fabricio-Antonio/blob/output/github-contribution-grid-snake.svg)
-
 
 </div>
