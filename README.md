@@ -5,7 +5,9 @@
 
 Desenvolvedor Front-end | ReactJS | Next.js<br>
 Análise e Desenvolvimento de Sistemas – UNINASSAU (2024) <br><br>
-Sou um desenvolvedor front-end apaixonado por tecnologia e interfaces modernas. Especializado em ReactJS, Next.js e TypeScript, tenho experiência no desenvolvimento de e-commerces, sistemas administrativos e plataformas dinâmicas, sempre focando em performance, responsividade e experiência do usuário (UX/UI).<br><br>
+Sou desenvolvedor front-end com mais de 1 ano de experiência como freelancer, criando soluções digitais eficientes e escaláveis. Tenho trabalhado em diversos projetos, desde landing pages impactantes até sistemas administrativos completos para órgãos públicos.
+
+Meu foco é criar interfaces responsivas, performáticas e com excelente UX, utilizando as melhores práticas do mercado. Atualmente, estou expandindo meus conhecimentos para o back-end, com tecnologias como Node.js, Nest.js, MySQL e MongoDB.<br><br>
 
 Atualmente, trabalho como freelancer, desenvolvendo soluções personalizadas e escaláveis para clientes.
 
