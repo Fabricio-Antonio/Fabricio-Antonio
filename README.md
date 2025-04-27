@@ -235,7 +235,6 @@ Estou expandindo meus conhecimentos para o back-end.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-Antonio&theme=vision-friendly-dark&hide_border=false)<br/>
 
 
-<img width="495px" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Antonio&show_icons=true&theme=vision-friendly-dark" alt="Fabricio-Antonio stats"/>
 <img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Antonio&layout=compact&theme=vision-friendly-dark" alt="Fabricio-Antonio most languages"/>
 
 </div>
