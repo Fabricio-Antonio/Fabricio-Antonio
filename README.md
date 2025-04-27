@@ -7,8 +7,9 @@
 Desenvolvedor Full-Stack | TypeScript | ReactJS | NestJS <br>
 Análise e Desenvolvimento de Sistemas <br><br>
 Sou desenvolvedor com mais de 1 ano e meio de experiência como Front-end freelancer, criando soluções digitais eficientes e escaláveis. Tenho trabalhado em diversos projetos, desde landing pages impactantes até sistemas administrativos completos para órgãos públicos.
-<br><br>
 Estou expandindo meus conhecimentos para o back-end.
+<br>
+<br>
 # 🌱 Estudando
 - NodeJS
 - NestJS
@@ -16,10 +17,12 @@ Estou expandindo meus conhecimentos para o back-end.
 - PostgreSQL
 - Desing Patterns
 
-
+<br>
 
 # 🌐 Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabricio.ss.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricio-ss) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevFabricioSantos) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/donald_duck.dev) 
+
+<br>
 
 # 💻 Tech Stack:
 
@@ -167,6 +170,16 @@ Estou expandindo meus conhecimentos para o back-end.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 
+<img 
+  title="Mongoose"
+  alt="Mongoose"
+  align="left"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" 
+/>
+          
+
 <img
   title="Prisma"
   alt="Prisma"
@@ -194,8 +207,6 @@ Estou expandindo meus conhecimentos para o back-end.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
-
-
 <img
   title="Linux"
   alt="Linux"
@@ -205,6 +216,18 @@ Estou expandindo meus conhecimentos para o back-end.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
+<img
+  title="Bash"
+  alt="Bash"
+  align="left"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+
+<br>
+<br>
+<br>
 <br>
 <br>
 
