@@ -1,26 +1,25 @@
-# 💫 Sobre:
-<img align="right" width="325" height="325" src="https://user-images.githubusercontent.com/90152237/203215661-03e06630-0caa-43d4-9d2d-935a043850cc.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Eu+sou+Fabr%C3%ADcio%2C+dev+Front-end.+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+![banner](https://yt3.googleusercontent.com/MsLN3hZ2_5xrH4KGG6QemJHuczmt4slw9L99bKAw44rDHlW9rBANxTboYXGJWCcCX3VhunmW=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+<br>
 
-Desenvolvedor Front-end | ReactJS | Next.js<br>
-Análise e Desenvolvimento de Sistemas – UNINASSAU (2024) <br><br>
-Sou desenvolvedor front-end com mais de 1 ano de experiência como freelancer, criando soluções digitais eficientes e escaláveis. Tenho trabalhado em diversos projetos, desde landing pages impactantes até sistemas administrativos completos para órgãos públicos.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Fabr%C3%ADcio+Santos%2C+dev+Full-Stack.)](https://git.io/typing-svg)
 
-Meu foco é criar interfaces responsivas, performáticas e com excelente UX, utilizando as melhores práticas do mercado. Atualmente, estou expandindo meus conhecimentos para o back-end, com tecnologias como Node.js, Nest.js, MySQL e MongoDB.<br><br>
-
-Atualmente, trabalho como freelancer, desenvolvendo soluções personalizadas e escaláveis para clientes.
-
+Desenvolvedor Full-Stack | TypeScript | ReactJS | NestJS <br>
+Análise e Desenvolvimento de Sistemas <br><br>
+Sou desenvolvedor com mais de 1 ano e meio de experiência como Front-end freelancer, criando soluções digitais eficientes e escaláveis. Tenho trabalhado em diversos projetos, desde landing pages impactantes até sistemas administrativos completos para órgãos públicos.
+<br><br>
+Estou expandindo meus conhecimentos para o back-end.
 # 🌱 Estudando
 - NodeJS
 - NestJS
 - MongoDB
-- Postgre
+- PostgreSQL
+- Desing Patterns
 
 
 
 # 🌐 Contato:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabricio.ss.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricio-ss) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabricio.ss.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricio-ss) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevFabricioSantos) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/donald_duck.dev) 
 
 # 💻 Tech Stack:
 
@@ -209,7 +208,7 @@ Atualmente, trabalho como freelancer, desenvolvendo soluções personalizadas e 
 <br>
 <br>
 
-# 📊 GitHub Status:
+# 📊 Status:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-Antonio&theme=vision-friendly-dark&hide_border=false)<br/>
 
 
