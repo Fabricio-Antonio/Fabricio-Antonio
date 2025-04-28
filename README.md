@@ -90,10 +90,19 @@ Estou expandindo meus conhecimentos para o back-end.
 <br>
 
 # 📊 Status:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-Antonio&theme=vision-friendly-dark&hide_border=false)<br/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; max-width: 450px; margin: auto;">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-Antonio&theme=vision-friendly-dark&hide_border=false" 
+    width="400" 
+    alt="GitHub Streak" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Antonio&layout=compact&theme=vision-friendly-dark" 
+    width="350" 
+    alt="Fabricio-Antonio most languages" 
+  />
+</div>
 
-
-<img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Antonio&layout=compact&theme=vision-friendly-dark" alt="Fabricio-Antonio most languages"/>
 
 </div>
 
