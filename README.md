@@ -95,7 +95,8 @@ Estou expandindo meus conhecimentos para o back-end.
     width="350" 
     alt="Fabricio-Antonio most languages" 
   />
-
-
-<img src="https://raw.githubusercontent.com/Fabricio-Antonio/Fabricio-Antonio/output/snake.svg" alt="Snake animation" />
-
+ <img 
+     src="https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-Antonio&theme=vision-friendly-dark&hide_border=false" 
+     width="400" 
+     alt="GitHub Streak" 
+   />
