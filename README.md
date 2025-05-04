@@ -1,15 +1,21 @@
 
 ![banner](https://yt3.googleusercontent.com/MsLN3hZ2_5xrH4KGG6QemJHuczmt4slw9L99bKAw44rDHlW9rBANxTboYXGJWCcCX3VhunmW=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 <br>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Fabr%C3%ADcio+Santos%2C+dev+Full-Stack.)](https://git.io/typing-svg)
 
 Desenvolvedor Full-Stack | TypeScript | ReactJS | NestJS <br>
 Análise e Desenvolvimento de Sistemas <br><br>
+</div>
+<div align="justify">
+  
 Sou desenvolvedor com **mais de 1 ano e meio de experiência** como Front-end freelancer. Tenho trabalhado em diversos projetos, desde landing pages impactantes até sistemas administrativos completos para órgãos públicos. <br>
 No momento estou expandindo meus conhecimentos para o back-end, visando me tornar um profissional mais versátil com atuação full-stack.
+</div>
+
 <br>
-<br>
+
 # 🌱 Estudando
 NodeJS &nbsp; • &nbsp; NestJS &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; PostgreSQL &nbsp; • &nbsp; Docker &nbsp; • &nbsp; Desing Patterns &nbsp; • &nbsp; Cloud Computing
 
