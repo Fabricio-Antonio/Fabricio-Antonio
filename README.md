@@ -105,7 +105,7 @@ NodeJS &nbsp; • &nbsp; NestJS &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; Post
     width="350" 
     alt="Fabricio-Antonio most languages" 
   />
-<img width="250" />
+<img width="150" />
  <img 
      src="https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-Antonio&theme=vision-friendly-dark&hide_border=false" 
      width="400" 
