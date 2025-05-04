@@ -6,16 +6,12 @@
 
 Desenvolvedor Full-Stack | TypeScript | ReactJS | NestJS <br>
 Análise e Desenvolvimento de Sistemas <br><br>
-Sou desenvolvedor com mais de 1 ano e meio de experiência como Front-end freelancer, criando soluções digitais eficientes e escaláveis. Tenho trabalhado em diversos projetos, desde landing pages impactantes até sistemas administrativos completos para órgãos públicos.
-Estou expandindo meus conhecimentos para o back-end.
+Sou desenvolvedor com **mais de 1 ano e meio de experiência** como Front-end freelancer. Tenho trabalhado em diversos projetos, desde landing pages impactantes até sistemas administrativos completos para órgãos públicos. <br>
+No momento estou expandindo meus conhecimentos para o back-end, visando me tornar um profissional mais versátil com atuação full-stack.
 <br>
 <br>
 # 🌱 Estudando
-- NodeJS
-- NestJS
-- MongoDB
-- PostgreSQL
-- Desing Patterns
+NodeJS &nbsp; • &nbsp; NestJS &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; PostgreSQL &nbsp; • &nbsp; Docker &nbsp; • &nbsp; Desing Patterns &nbsp; • &nbsp; Cloud Computing
 
 <br>
 
@@ -77,6 +73,10 @@ Estou expandindo meus conhecimentos para o back-end.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud plataform logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -84,6 +84,10 @@ Estou expandindo meus conhecimentos para o back-end.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+  <img width="12" />
+
 </div>
 
 <br>
