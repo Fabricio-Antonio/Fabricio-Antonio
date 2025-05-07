@@ -14,7 +14,7 @@ Sou desenvolvedor com **mais de 1 ano e meio de experiência** como Front-end fr
 No momento estou expandindo meus conhecimentos para o back-end, visando me tornar um profissional mais versátil com atuação full-stack. <br>
 <br>
 🌱 Estudando <br>
-NodeJS &nbsp; • &nbsp; NestJS &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; PostgreSQL &nbsp; • &nbsp; Docker &nbsp; • &nbsp; Desing Patterns &nbsp; • &nbsp; Cloud Computing
+NodeJS &nbsp; • &nbsp; NestJS &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; PostgreSQL &nbsp; • &nbsp; Docker &nbsp; • &nbsp; Desing Patterns &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Jest
 </div>
 
 <br>
