@@ -10,7 +10,7 @@ Análise e Desenvolvimento de Sistemas <br><br>
 </div>
 <div align="justify">
   
-Sou desenvolvedor **+ 1 ano e meio de experiência** como Front-end freelancer. Tenho trabalhado em diversos projetos, desde landing pages impactantes até sistemas administrativos completos para órgãos públicos. <br>
+Sou desenvolvedor **mais de 1 ano e meio de experiência** como Front-end freelancer. Tenho trabalhado em diversos projetos, desde landing pages impactantes até sistemas administrativos completos para órgãos públicos. <br>
 No momento estou expandindo meus conhecimentos para o back-end, visando me tornar um profissional mais versátil com atuação full-stack. <br>
 <br>
 🌱 Estudando <br>
