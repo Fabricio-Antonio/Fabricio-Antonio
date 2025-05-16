@@ -36,7 +36,6 @@ NodeJS &nbsp; • &nbsp; NestJS &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; Post
   </a>
 </div>
 
-
 <br>
 
 # 👨‍💻 Tecnologias:
@@ -96,13 +95,9 @@ NodeJS &nbsp; • &nbsp; NestJS &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; Post
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
-          
-
 </div>
 
 <br>
-
-
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Antonio&layout=compact&theme=vision-friendly-dark" 
