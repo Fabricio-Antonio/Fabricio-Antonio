@@ -14,7 +14,7 @@ Sou desenvolvedor **+ 1 ano e meio de experiência** como Front-end freelancer. 
 No momento estou expandindo meus conhecimentos para o back-end, visando me tornar um profissional mais versátil com atuação full-stack. <br>
 <br>
 🌱 Estudando <br>
-NodeJS &nbsp; • &nbsp; NestJS &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; PostgreSQL &nbsp; • &nbsp; Docker &nbsp; • &nbsp; Desing Patterns &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Jest &nbsp; • &nbsp; Cypress
+NodeJS &nbsp; • &nbsp; NestJS &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; PostgreSQL &nbsp; • &nbsp; Docker &nbsp; • &nbsp; Desing Patterns &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Jest &nbsp; • &nbsp; Cypress • &nbsp; swagger
 </div>
 
 <br>
@@ -79,7 +79,7 @@ NodeJS &nbsp; • &nbsp; NestJS &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; Post
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" alt="Jest logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" alt="jest logo" alt="Jest logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" alt="swagger logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
