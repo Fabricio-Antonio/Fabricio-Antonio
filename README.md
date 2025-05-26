@@ -14,7 +14,7 @@ Sou desenvolvedor **+ 1 ano e meio de experiência** como Front-end freelancer. 
 No momento estou expandindo meus conhecimentos para o back-end, visando me tornar um profissional mais versátil com atuação full-stack. <br>
 <br>
 🌱 Estudando <br>
-NodeJS &nbsp; • &nbsp; NestJS &nbsp; &nbsp; • &nbsp; PostgreSQL &nbsp; • &nbsp; Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Jest &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; swagger
+Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp;
 </div>
 
 <br>
