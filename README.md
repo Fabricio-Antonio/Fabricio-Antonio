@@ -100,6 +100,7 @@ Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &n
 </div>
 
 <br>
+<div align="center">
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Antonio&layout=compact&theme=vision-friendly-dark" 
@@ -112,3 +113,9 @@ Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &n
      width="400" 
      alt="GitHub Streak" 
    />
+
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Fabricio-Antonio/count.svg?"  />
+</div>
