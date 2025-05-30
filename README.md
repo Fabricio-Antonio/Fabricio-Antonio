@@ -10,7 +10,7 @@ Systems Analysis and Development <br><br>
 </div>
 <div align="justify">
   
-I am a software developer with **over 1.5 years of hands-on experience** as a freelance Front-end engineer. I have been involved in a wide variety of projects, ranging from high-conversion landing pages to administrative systems designed for government institutions — solutions that demand a high level of responsibility, compliance, and security. <br>
+I am Fabrício Santos, I am a software developer with **over 1.5 years of hands-on experience** as a freelance Front-end engineer. I have been involved in a wide variety of projects, ranging from high-conversion landing pages to administrative systems designed for government institutions — solutions that demand a high level of responsibility, compliance, and security. <br>
 <br>
 🌱 Learning <br>
 Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; GitHub Actions &nbsp; • &nbsp; Design Partners
