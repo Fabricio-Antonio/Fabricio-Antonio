@@ -5,22 +5,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Fabr%C3%ADcio+Santos%2C+dev+Full-Stack.)](https://git.io/typing-svg)
 
-Desenvolvedor Full-Stack | TypeScript | ReactJS | NestJS <br>
-Análise e Desenvolvimento de Sistemas <br><br>
+Full-Stack Developer | TypeScript | ReactJS | NestJS <br>
+Systems Analysis and Development <br><br>
 </div>
 <div align="justify">
   
-Sou desenvolvedor **+ 1 ano e meio de experiência** como Front-end freelancer. Tenho trabalhado em diversos projetos, desde landing pages impactantes até sistemas administrativos completos para órgãos públicos. <br>
-No momento estou expandindo meus conhecimentos para o back-end, visando me tornar um profissional mais versátil com atuação full-stack. <br>
+I am a software developer with **over 1.5 years of hands-on experience** as a freelance Front-end engineer. I have been involved in a wide variety of projects, ranging from high-conversion landing pages to administrative systems designed for government institutions — solutions that demand a high level of responsibility, compliance, and security. <br>
 <br>
-🌱 Estudando <br>
+🌱 Learning <br>
 Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; GitHub Actions &nbsp; • &nbsp; Design Partners
 </div>
 
 <br>
 <br>
 
-# 🌐 Redes:
+## 🌐 Find Me Online:
 <div align="left">
   <a href="https://www.linkedin.com/in/fabricio-ss/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -38,7 +37,7 @@ Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &n
 
 <br>
 
-# 👨‍💻 Tecnologias:
+## 👨‍💻 Development Ecosystem:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
