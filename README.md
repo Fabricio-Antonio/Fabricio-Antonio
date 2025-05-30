@@ -12,6 +12,15 @@ Systems Analysis and Development <br><br>
   
 I am Fabrício Santos, I am a software developer with **over 1.5 years of hands-on experience** as a freelance Front-end engineer. I have been involved in a wide variety of projects, ranging from high-conversion landing pages to administrative systems designed for government institutions — solutions that demand a high level of responsibility, compliance, and security. <br>
 <br>
+I'm also an open-source and Linux enthusiast
+<br>
+<br>
+
+##### Beyond the Code...
+I often joke that I'm married to STEM, but my true passion affair is with the humanities. In my free time, you'll often find me deep into a book when I'm not writing code. — especially philosophy and other areas of the human sciences.
+I'm also into languages, play the flute, and stay active through calisthenics and running. On top of that, I enjoy sharing what I learn about software development on my YouTube channel.<br>
+<br>
+<br>
 🌱 Learning <br>
 Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; GitHub Actions &nbsp; • &nbsp; Design Partners
 </div>
