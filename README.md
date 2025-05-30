@@ -19,7 +19,7 @@ Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &n
 <br>
 <br>
 
-## 🌐 Find Me Online:
+# 🌐 Find Me Online:
 <div align="left">
   <a href="https://www.linkedin.com/in/fabricio-ss/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -37,7 +37,7 @@ Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &n
 
 <br>
 
-## 👨‍💻 Development Ecosystem:
+# 👨‍💻 Development Ecosystem:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
