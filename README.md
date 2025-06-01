@@ -7,7 +7,7 @@
 
 Full-Stack Developer | TypeScript | ReactJS | NestJS <br>
 Systems Analysis and Development <br><br>
-</div>
+[![wakatime](https://wakatime.com/badge/user/c6b11e4d-9224-485d-934a-0cb8a98fd2f0.svg)](https://wakatime.com/@c6b11e4d-9224-485d-934a-0cb8a98fd2f0)
 <div align="justify">
   
 I am Fabrício Santos, I am a software developer with **over 1.5 years of hands-on experience** as a freelance Front-end engineer. **I have been involved in a wide variety of projects**, ranging from high-conversion landing pages to administrative systems designed for **government institutions** — solutions that demand a high level of responsibility, compliance, and security. <br>
