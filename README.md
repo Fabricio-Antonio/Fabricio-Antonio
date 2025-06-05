@@ -119,7 +119,7 @@ Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &n
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Fabricio-Antonio&theme=dark&hide_border=false&fire=f2e05a&ring=18BBF7&currStreakLabel=ffffff&background=000000"
     alt="GitHub Streak" 
-    width="490"
+    width="350"
 />
 </a>
 </div>
