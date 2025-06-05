@@ -110,7 +110,7 @@ Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &n
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Antonio&layout=compact&bg_color=000000&title_color=18BBF7" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Antonio&layout=compact&bg_color=000000&title_color=ffffff" 
     width="350" 
     alt="Fabricio-Antonio most languages" 
   />
