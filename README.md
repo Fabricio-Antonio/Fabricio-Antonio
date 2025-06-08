@@ -11,7 +11,7 @@ Systems Analysis and Development <br><br>
   
 I am Fabrício Santos, I am a software developer with **over 1.5 years of hands-on experience** as a freelance Front-end engineer. **I have been involved in a wide variety of projects**, ranging from high-conversion landing pages to administrative systems designed for **government institutions** — solutions that demand a high level of responsibility, compliance, and security. <br>
 <br>
-I'm also an open-source and Linux enthusiast
+I'm also an open-source and Linux enthusiast.
 <br>
 <br>
 
