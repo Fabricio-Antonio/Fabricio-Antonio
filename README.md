@@ -6,10 +6,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Fabr%C3%ADcio+Santos%2C+dev+Full-Stack.)](https://git.io/typing-svg)
 
 Full-Stack Developer | TypeScript | ReactJS | NestJS <br>
-Systems Analysis and Development <br><br>
+Degree in Systems Analysis and Development <br><br>
 <div align="justify">
   
-I am Fabrício Santos, I am a software developer with **over 1.5 years of hands-on experience** as a freelance Front-end engineer. **I have been involved in a wide variety of projects**, ranging from high-conversion landing pages to administrative systems designed for **government institutions** — solutions that demand a high level of responsibility, compliance, and security. <br>
+I am Fabrício Santos - a software developer with **over 1.5 years of hands-on experience** as a freelance Front-end engineer. **I have been involved in a wide variety of projects**, ranging from high-conversion landing pages to administrative systems designed for **government institutions** — solutions that demand a high level of responsibility, compliance, and security. <br>
 <br>
 I'm also an open-source and Linux enthusiast.
 <br>
@@ -21,7 +21,7 @@ I'm also into languages, play the flute, and stay active through calisthenics an
 <br>
 <br>
 🌱 Learning <br>
-Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; GitHub Actions &nbsp; • &nbsp; Design Partners
+Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; GitHub Actions &nbsp; • &nbsp; Design Patterns
 </div>
 
 <br>
