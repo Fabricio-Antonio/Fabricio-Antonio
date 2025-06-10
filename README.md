@@ -7,6 +7,15 @@
 
 Full-Stack Developer | TypeScript | ReactJS | NestJS <br>
 Degree in Systems Analysis and Development <br><br>
+  <a href="https://www.linkedin.com/in/fabricio-ss/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@DevFabricioSantos" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.com/users/donald_duck.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="30" alt="discord logo"  />
+  </a>
 <div align="justify">
   
 I am Fabrício Santos - a software developer with **over 1.5 years of hands-on experience** as a freelance Front-end engineer. **I have been involved in a wide variety of projects**, ranging from high-conversion landing pages to administrative systems designed for **government institutions** — solutions that demand a high level of responsibility, compliance, and security. <br>
@@ -27,23 +36,6 @@ Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &n
 <br>
 <br>
 
-<div align="left">
-
-# 🌐 Find Me Online:
-
-  <a href="https://www.linkedin.com/in/fabricio-ss/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@DevFabricioSantos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/fabriciosantos.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/donald_duck.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
 
 <br>
 
@@ -137,5 +129,3 @@ Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &n
 <div align="center">
   <img src="https://profile-counter.glitch.me/Fabricio-Antonio/count.svg?"  />
 </div>
-
-[![wakatime](https://wakatime.com/badge/user/c6b11e4d-9224-485d-934a-0cb8a98fd2f0.svg)](https://wakatime.com/@c6b11e4d-9224-485d-934a-0cb8a98fd2f0)
