@@ -34,12 +34,6 @@ Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &n
 </div>
 
 <br>
-<br>
-
-
-<br>
-
-
 
 <div align="left">
 
