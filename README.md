@@ -30,7 +30,7 @@ I'm also into languages, play the flute, and stay active through calisthenics an
 <br>
 <br>
 🌱 Learning <br>
-Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; GitHub Actions &nbsp; • &nbsp; Design Patterns &nbsp; • &nbsp; algorithms and data structures
+Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; GitHub Actions &nbsp; • &nbsp; Design Patterns &nbsp; • &nbsp; algorithms and data structures 
 </div>
 
 <br>
