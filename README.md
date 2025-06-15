@@ -26,7 +26,7 @@ I'm also an open-source and Linux enthusiast.
 
 ##### Beyond the Code...
 I often joke that I'm married to STEM, but my true passion affair is with the humanities. In my free time, you'll often find me deep into a book when I'm not writing code. — especially philosophy and other areas of the human sciences.
-I'm also into languages, play the flute, and stay active through calisthenics and running. On top of that, I enjoy sharing what I learn about software development on my YouTube channel.<br>
+I'm also into languages, play the flute, and stay active through calisthenics and running. On top of that, I enjoy sharing what I learn about software development on my YouTube channel. <br>
 <br>
 <br>
 🌱 Learning <br>
