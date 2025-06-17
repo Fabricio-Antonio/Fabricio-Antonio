@@ -37,7 +37,7 @@ Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &n
 
 <div align="left">
 
-# 👨‍💻 Development Ecosystem:
+# 👨‍💻 Development Ecosystem: 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
