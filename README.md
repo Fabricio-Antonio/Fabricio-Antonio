@@ -29,6 +29,7 @@ I often joke that I'm married to STEM, but my true passion affair is with the hu
 I'm also into languages, play the flute, and stay active through calisthenics and running. On top of that, I enjoy sharing what I learn about software development on my YouTube channel. <br>
 <br>
 <br>
+
 🌱 Learning <br>
 Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; GitHub Actions &nbsp; • &nbsp; Design Patterns &nbsp; • &nbsp; algorithms and data structures 
 </div>
