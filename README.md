@@ -34,7 +34,7 @@ I'm also into languages, play the flute, and stay active through calisthenics an
 <br>
 
 🌱 Learning <br>
-Docker &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; Electron &nbsp; • &nbsp; Design Patterns &nbsp; • &nbsp; algorithms and data structures  &nbsp; • &nbsp; React Native
+Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; Electron &nbsp; • &nbsp; Design Patterns &nbsp; • &nbsp; algorithms and data structures  &nbsp; • &nbsp; React Native
 </div>
 
 <br>
