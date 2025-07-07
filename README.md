@@ -94,7 +94,9 @@ Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; Electron &nbsp; • 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" alt="google cloud plataform logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" alt="docker logo" />
-  <img width="5" />    
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" width="40" alt="sentry logo" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="git logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=github" width="40" alt="github logo"  />
