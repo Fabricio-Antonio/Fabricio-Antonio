@@ -160,7 +160,7 @@ Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; Electron &nbsp; • 
 			<td valign="top">
 			<h3>Mobile App Rotas4Me - React Native, Expo Go, TypeScript</h3>
 			<p>Mobile app built for mapping and rating safe routes. Designed to prevent urban violence through women’s reports and geolocation. Developed as a solution to a hackathon challenge, we're now working to launch the app on major app stores.</p>
-			<a href="https://github.com/felipeAguiarCode/angular-playground">
+			<a href="https://www.rotas4me.com">
  			 	<img src="https://img.shields.io/badge/visit%20the%20website-D65E75?style=for-the-badge" alt="Rotas4Me">
 			</a>
 			</td>
