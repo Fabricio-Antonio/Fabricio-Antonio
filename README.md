@@ -200,7 +200,7 @@ Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; Electron &nbsp; • 
 			<td valign="top">
 			<h3>Programação Orientada a Objetos com Java</h3>
 			<p>Repositório criado durante meus estudos de Programação Orientada a Objetos (POO) com Java na faculdade. O conteúdo aqui pode te ajudar a entender os conceitos de forma mais objetiva — talvez até melhor do que como seu professor explicou.</p>
-			<a href="https://www.rotas4me.com">
+			<a href="https://github.com/Fabricio-Antonio/POO-Java">
  			 	<img src="https://img.shields.io/badge/visit%20the%20repository-ba6f0d?style=for-the-badge" alt="POO com Java">
 			</a>
 			</td>
