@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Fabr%C3%ADcio+Santos%2C+dev+Full-Stack.)](https://git.io/typing-svg)
 
 ### Full-Stack Developer | TypeScript | ReactJS | NestJS 🦆<br>
-#### Degree in Systems Analysis and Development <br> <br>
+#### Degree in Systems Analysis and Development <br>
   <a href="https://www.linkedin.com/in/fabricio-ss/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
   </a>
@@ -18,6 +18,10 @@
   <a href="https://discord.com/users/donald_duck.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo"  />
   </a>
+
+<br/>
+<br/>
+
 <div align="justify">
   
 I am Fabrício Santos - a software developer with **over 1.5 years of hands-on experience** as a freelance Front-end engineer. **I have been involved in a wide variety of projects**, ranging from high-conversion landing pages to administrative systems designed for **government institutions** — solutions that demand a high level of responsibility, compliance, and security. <br>
