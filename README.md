@@ -30,7 +30,7 @@ I'm also an open-source, Linux enthusiast and hackathon competitor.
 <br>
 <br>
 <br>
-Ask me about: <a href="https://github.com/Rotas4Me" target="_blank"> **@Rotas4Me** </a>
+Hands-on, on React Native — I'm building my first mobile app from the ground up! <a href="https://github.com/Rotas4Me" target="_blank"> **@Rotas4Me** </a>
 <br>
 <br>
 <br>
