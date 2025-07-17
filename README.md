@@ -41,7 +41,7 @@ Hands-on, on React Native — I'm building my first mobile app from the ground u
 <br>
 
 🌱 Learning <br>
-Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; Design Patterns &nbsp; • &nbsp; algorithms and data structures  &nbsp; • &nbsp; React Native
+Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; Design Patterns &nbsp; • &nbsp; algorithms and data structures  &nbsp; • &nbsp; React Native  &nbsp; • &nbsp; DevOps
 </div>
 
 <br>
