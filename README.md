@@ -130,16 +130,9 @@ Cloud Computing &nbsp; • &nbsp; Cypress &nbsp; • &nbsp; Design Patterns &nbs
 <img width="48" />
 
 
-<!-- <a href="https://git.io/streak-stats">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Fabricio-Antonio&theme=dark&hide_border=false&fire=f2e05a&ring=18BBF7&currStreakLabel=ffffff&background=000000"
-    alt="GitHub Streak" 
-    width="350"
-/>
-</a> -->
+
 </div>
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fabricio-Antonio&custom_title=Results%20of%20coffee%20and%20code&hide_border=true&bg_color=000000&color=ffffff&point=f2e05a&hide_border=true&line=18BBF7)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <div align="left">
   
 <br>
