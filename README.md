@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Fabr%C3%ADcio+Santos%2C+dev+Full-Stack.)](https://git.io/typing-svg)
 
-### Full-Stack Developer | TypeScript | ReactJS | NestJS 🦆<br>
+### Full-Stack Developer | TypeScript | ReactJS | NestJS | React Native 🦆<br>
 #### Degree in Systems Analysis and Development <br>
   <a href="https://www.linkedin.com/in/fabricio-ss/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
