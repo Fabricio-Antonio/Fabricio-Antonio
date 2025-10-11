@@ -24,7 +24,7 @@
 
 <div align="justify">
   
-I am Fabrício Santos - a software developer with **2 years of hands-on experience** as a freelance Front-end engineer. **I have been involved in a wide variety of projects**, ranging from high-conversion landing pages to administrative systems designed for **government institutions** — solutions that demand a high level of responsibility, compliance, and security. <br>
+I’m Fabrício Santos, a software developer with **2 years of experience** in building digital solutions that blend design, performance, and scalability. **I’ve worked on systems for government institutions** — projects that demand high levels of security, precision, and compliance. Currently, I’m developing **my own startup** focused on innovation and technology, while also working as a **researcher at a Federal University**, exploring the connection between software development, communication, and human-centered design. <br>
 <br>
 I'm also an open-source, Linux enthusiast and hackathon competitor. 
 <br>
