@@ -49,6 +49,9 @@ Mobile development  &nbsp; • &nbsp; React Native &nbsp; • &nbsp; Computer Vi
 <div align="left">
 
 # 👨‍💻 Development Ecosystem: 
+Front-End:
+</br>
+</br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="figma logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html5 logo"  />
@@ -70,6 +73,11 @@ Mobile development  &nbsp; • &nbsp; React Native &nbsp; • &nbsp; Computer Vi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="bootstrap logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="40" alt="bootstrap logo" />
+  </br>
+  </br>
+  Back-end:
+  </br>
+  </br>
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="nodejs logo"  />
   <img width="5" />
@@ -77,6 +85,11 @@ Mobile development  &nbsp; • &nbsp; React Native &nbsp; • &nbsp; Computer Vi
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" alt="nestjs logo"  />
   <img width="5" />
+  </br>
+  </br>
+  Data Base
+  </br>
+  </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="postgresql logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="mongodb logo"  />
@@ -89,14 +102,24 @@ Mobile development  &nbsp; • &nbsp; React Native &nbsp; • &nbsp; Computer Vi
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" alt="DBeaver logo"  />
   <img width="5" /> 
+  </br>
+  </br>
+  Test and docs
+  </br>
+  </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" width="40" alt="Cypress logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" alt="jest logo" alt="Jest logo" />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" alt="swagger logo" />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=postman" width="40" alt="postman logo"  />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" alt="swagger logo" />
+  <img width="5" />
+  </br>
+  </br>
+  Cloud and CI/CD:
+  </br>
+  </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" width="40" alt="Railway logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" alt="google cloud plataform logo" />
@@ -111,8 +134,18 @@ Mobile development  &nbsp; • &nbsp; React Native &nbsp; • &nbsp; Computer Vi
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" alt="github actions logo" />
   <img width="5" />
+  </br>
+  </br>
+  Computer Vision
+  </br>
+  </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python logo" />
   <img width="5" />
+  </br>
+  </br>
+  Operational System
+  </br>
+  </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" alt="Linux logo" />
   <img width="5" />
 
