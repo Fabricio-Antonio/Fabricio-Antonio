@@ -41,7 +41,7 @@ Hands-on, on React Native — I'm building my first mobile app from the ground u
 <br>
 
 🌱 Learning <br>
-Mobile development  &nbsp; • &nbsp; React Native
+Mobile development  &nbsp; • &nbsp; React Native &nbsp; • &nbsp; Computer Vision
 </div>
 
 <br>
@@ -49,7 +49,8 @@ Mobile development  &nbsp; • &nbsp; React Native
 <div align="left">
 
 # 👨‍💻 Development Ecosystem: 
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="figma logo"  />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html5 logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="css3 logo"  />
@@ -110,9 +111,7 @@ Mobile development  &nbsp; • &nbsp; React Native
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" alt="github actions logo" />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="figma logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="40" alt="trello logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" alt="Linux logo" />
   <img width="5" />
