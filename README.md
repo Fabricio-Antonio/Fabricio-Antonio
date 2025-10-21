@@ -141,7 +141,8 @@ Front-End:
   </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python logo" />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="Pytorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" alt="Pytorch logo" />
+  <img width="5" />
   </br>
   </br>
   Operational System
