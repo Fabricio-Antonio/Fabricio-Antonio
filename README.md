@@ -33,25 +33,7 @@ I'm also an open-source, Linux enthusiast and hackathon competitor.
 Hands-on, on React Native — I'm building my first mobile app from the ground up! <a href="https://www.linkedin.com/company/rotas4me" target="_blank"> **@Rotas4Me** </a>
 <br>
 <br>
-<br>
-"Talk is cheap. Show me the code."<br>
--Linus Torvalds
-
-<br>
-<br>
-
-🌱 Learning <br>
-Mobile development  &nbsp; • &nbsp; React Native &nbsp; • &nbsp; Computer Vision
-</div>
-
-<br>
-
 <div align="left">
-
-# 👨‍💻 Development Ecosystem: 
-Front-End:
-</br>
-</br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="figma logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html5 logo"  />
@@ -61,6 +43,8 @@ Front-End:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="react logo"  />
   <img width="5" />
@@ -74,22 +58,14 @@ Front-End:
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="40" alt="bootstrap logo" />
   <img width="5" />
-  </br>
-  </br>
-  Back-end:
-  </br>
-  </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="nodejs logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" alt="nestjs logo"  />
   <img width="5" />
-  </br>
-  </br>
-  Data Base
-  </br>
-  </br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" alt="Pytorch logo" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="postgresql logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="mongodb logo"  />
@@ -102,11 +78,6 @@ Front-End:
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" alt="DBeaver logo"  />
   <img width="5" /> 
-  </br>
-  </br>
-  Test and docs
-  </br>
-  </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" width="40" alt="Cypress logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" alt="jest logo" alt="Jest logo" />
@@ -115,11 +86,6 @@ Front-End:
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" alt="swagger logo" />
   <img width="5" />
-  </br>
-  </br>
-  Cloud and CI/CD:
-  </br>
-  </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" width="40" alt="Railway logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" alt="google cloud plataform logo" />
@@ -134,24 +100,21 @@ Front-End:
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" alt="github actions logo" />
   <img width="5" />
-  </br>
-  </br>
-  Computer Vision
-  </br>
-  </br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python logo" />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" alt="Pytorch logo" />
-  <img width="5" />
-  </br>
-  </br>
-  Operational System
-  </br>
-  </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" alt="Linux logo" />
   <img width="5" />
-
 </div>
+<br>
+"Talk is cheap. Show me the code."<br>
+-Linus Torvalds
+
+<br>
+<br>
+
+🌱 Learning <br>
+Mobile development  &nbsp; • &nbsp; React Native &nbsp; • &nbsp; Computer Vision &nbsp; • &nbsp; Python
+</div>
+
+<br>
 
 <br>
 
