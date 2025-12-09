@@ -179,7 +179,7 @@ Mobile development  &nbsp; • &nbsp; React Native &nbsp; • &nbsp; Computer Vi
 	<thead>
 		<tr>
 			<th colspan="2" width="2000" style="text-align: center; font-size: 18px;">
-         👨‍🎓 Reposiórios para ajudar universitários 📚
+         👨‍🎓 Repositórios para ajudar universitários 📚
       </th>
 		</tr>
 	</thead>
