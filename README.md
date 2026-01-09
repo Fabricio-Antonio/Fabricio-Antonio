@@ -23,6 +23,7 @@
 <br/>
 <br/>
 
+
 <div align="justify">
   
 I’m Fabrício Santos, a software developer with **2 years of experience** in building digital solutions that blend design, performance, and scalability. **I’ve worked on systems for government institutions** — projects that demand high levels of security, precision, and compliance. Currently, I’m developing **my own startup** focused on innovation and technology, while also working as a **researcher at a Federal University**, exploring the connection between software development, communication, and human-centered design. <br>
