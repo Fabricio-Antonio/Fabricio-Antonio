@@ -19,7 +19,6 @@
   <a href="https://discord.com/users/donald_duck.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo"  />
   </a>
-
 <br/>
 <br/>
 
