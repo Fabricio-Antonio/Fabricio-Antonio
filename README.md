@@ -100,9 +100,16 @@ Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank
   <img width="5" />
 </div>
 <br>
-<br>
-<br>
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Antonio&layout=compact&bg_color=000000&title_color=ffffff" 
+    width="350" 
+    alt="Fabricio-Antonio most languages" 
+  />
+</div>
 
+<br>
+<br>
 <div align="left">
 
 # 📌 Pinned Repositories
