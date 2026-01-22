@@ -103,6 +103,8 @@ Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank
 <br>
 <br>
 
+<div align="left">
+
 # 📌 Pinned Repositories
 
 <table>
