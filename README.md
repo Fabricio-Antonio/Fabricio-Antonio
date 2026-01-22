@@ -23,13 +23,10 @@
 <br/>
 <div align="justify">
   
-I’m Fabrício Santos, a software developer with **2 years of experience** in building digital solutions that blend design, performance, and scalability. **I’ve worked on systems for government institutions** — projects that demand high levels of security, precision, and compliance. Currently, I’m developing **my own startup** focused on innovation and technology, while also working as a **researcher at a Federal University**, exploring the connection between software development, communication, and human-centered design. <br>
+I’m Fabrício Santos, a software developer with **+2 years of experience** in building digital solutions that blend design, performance, and scalability. **I’ve worked on systems for government institutions** — projects that demand high levels of security, precision, and compliance. <br>
+Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank"> **my own startup**</a>  focused on innovation and technology, while also working as a **researcher at a Federal University**, exploring the connection between software development and health. <br>
 <br>
-I'm also an open-source, Linux enthusiast and hackathon competitor. 
-<br>
-<br>
-<br>
-Hands-on, on React Native — I'm building my first mobile app from the ground up! <a href="https://github.com/Rotas4Me" target="_blank"> **@Rotas4Me** </a>
+> "Talk is cheap. Show me the code." - Linus Torvalds
 <br>
 <br>
 <div align="left">
@@ -103,23 +100,6 @@ Hands-on, on React Native — I'm building my first mobile app from the ground u
   <img width="5" />
 </div>
 <br>
-"Talk is cheap. Show me the code."<br>
--Linus Torvalds
-
-<br>
-<br>
-
-
-🌱 Learning <br>
-Mobile development  &nbsp; • &nbsp; React Native &nbsp; • &nbsp; Computer Vision &nbsp; • &nbsp; Python
-</div>
-
-<br>
-
-</div>
-
-<div align="left">
-  
 <br>
 <br>
 
