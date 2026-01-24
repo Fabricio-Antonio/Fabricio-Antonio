@@ -1,11 +1,8 @@
-
 ![banner](https://yt3.googleusercontent.com/RFl2dsRmwHLS3u4J5SRXZdBrN3ZftUYJSOznH99c-4bKqAH6oNTDscYO0QgNV1clhhFdXkHLaJU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 <br>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Fabr%C3%ADcio+Santos%2C+dev+Full-Stack.)](https://git.io/typing-svg)
-
-
 
 ### Full-Stack Developer | TypeScript | ReactJS | NestJS | React Native 🦆<br>
 ### Research collaborator [@UFAL Federal University of Alagoas](https://ufal.br/)
@@ -23,12 +20,10 @@
   </a>
 <br/>
 <br/>
-<div align="justify"> 
-I’m Fabrício Santos, a software developer with **+2 years of experience** in building digital solutions that blend design, performance, and scalability. **I’ve worked on systems for government institutions** — projects that demand high levels of security, precision, and compliance. <br> 
-Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank"> **my own startup**</a> focused on innovation and technology, while also working as a **researcher at a Federal University**, exploring the connection between software development and health. <br> 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> &nbsp; &nbsp;
-
+<div align="justify">
+  
+I’m Fabrício Santos, a software developer with **+2 years of experience** in building digital solutions that blend design, performance, and scalability. **I’ve worked on systems for government institutions** — projects that demand high levels of security, precision, and compliance. <br>
+Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank"> **my own startup**</a>  focused on innovation and technology, while also working as a **researcher at a Federal University**, exploring the connection between software development and health. <br>
 <br>
 > "Talk is cheap. Show me the code." - Linus Torvalds
 <br>
@@ -110,9 +105,8 @@ Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank
     width="350" 
     alt="Fabricio-Antonio most languages" 
   />
+	<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
-
-
 
 <br>
 <br>
