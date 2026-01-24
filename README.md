@@ -5,6 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Fabr%C3%ADcio+Santos%2C+dev+Full-Stack.)](https://git.io/typing-svg)
 
+
+
 ### Full-Stack Developer | TypeScript | ReactJS | NestJS | React Native 🦆<br>
 ### Research collaborator [@UFAL Federal University of Alagoas](https://ufal.br/)
 #### Degree in Systems Analysis and Development <br>
@@ -23,8 +25,25 @@
 <br/>
 <div align="justify">
   
-I’m Fabrício Santos, a software developer with **+2 years of experience** in building digital solutions that blend design, performance, and scalability. **I’ve worked on systems for government institutions** — projects that demand high levels of security, precision, and compliance. <br>
-Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank"> **my own startup**</a>  focused on innovation and technology, while also working as a **researcher at a Federal University**, exploring the connection between software development and health. <br>
+<img 
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+  width="300"
+  align="right"
+  alt="Computer illustration"
+/>
+
+<p align="justify">
+I’m Fabrício Santos, a software developer with <strong>+2 years of experience</strong> in building digital solutions that blend design, performance, and scalability.
+<strong>I’ve worked on systems for government institutions</strong> — projects that demand high levels of security, precision, and compliance.
+</p>
+
+<p align="justify">
+Currently, I’m developing 
+<a href="https://github.com/Rotas4Me"><strong>my own startup</strong></a>
+focused on innovation and technology, while also working as a
+<strong>researcher at a Federal University</strong>, exploring the connection between software development and health.
+</p>
+
 <br>
 > "Talk is cheap. Show me the code." - Linus Torvalds
 <br>
@@ -107,6 +126,8 @@ Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank
     alt="Fabricio-Antonio most languages" 
   />
 </div>
+
+
 
 <br>
 <br>
@@ -191,3 +212,4 @@ Sinta-se à vontade para usar como base: você pode adaptá-lo parcialmente ao s
 		</tr>
 	</tbody>
 </table>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16B8F3&height=120&section=footer"/>
