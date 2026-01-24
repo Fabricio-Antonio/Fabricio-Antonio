@@ -23,26 +23,11 @@
   </a>
 <br/>
 <br/>
-<div align="justify">
-  
-<img 
-  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-  width="300"
-  align="right"
-  alt="Computer illustration"
-/>
+<div align="justify"> 
+I’m Fabrício Santos, a software developer with **+2 years of experience** in building digital solutions that blend design, performance, and scalability. **I’ve worked on systems for government institutions** — projects that demand high levels of security, precision, and compliance. <br> 
+Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank"> **my own startup**</a> focused on innovation and technology, while also working as a **researcher at a Federal University**, exploring the connection between software development and health. <br> 
 
-<p align="justify">
-I’m Fabrício Santos, a software developer with <strong>+2 years of experience</strong> in building digital solutions that blend design, performance, and scalability.
-<strong>I’ve worked on systems for government institutions</strong> — projects that demand high levels of security, precision, and compliance.
-</p>
-
-<p align="justify">
-Currently, I’m developing 
-<a href="https://github.com/Rotas4Me"><strong>my own startup</strong></a>
-focused on innovation and technology, while also working as a
-<strong>researcher at a Federal University</strong>, exploring the connection between software development and health.
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> &nbsp; &nbsp;
 
 <br>
 > "Talk is cheap. Show me the code." - Linus Torvalds
