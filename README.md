@@ -70,6 +70,8 @@ Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="mysql logo"  />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"  width="40" alt="Radis logo" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=prisma" width="40" alt="prisma logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" alt="DBeaver logo"  />
