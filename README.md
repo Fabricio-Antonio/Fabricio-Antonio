@@ -106,7 +106,10 @@ Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank
     width="350" 
     alt="Fabricio-Antonio most languages" 
   />
-	<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif"
+     width="400px"
+     align="right"
+     alt="Coding animation">
 </div>
 
 <br>
