@@ -100,6 +100,8 @@ Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" alt="Linux logo" />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" alt="Bash logo"/>
+  <img width="5" />
 </div>
 <br>
 <div align="center">
