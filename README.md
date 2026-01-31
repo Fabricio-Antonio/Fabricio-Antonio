@@ -23,7 +23,7 @@
 <div align="justify">
   
 I’m Fabrício Santos, a software developer with **+2 years of experience** in building digital solutions that blend design, performance, and scalability. **I’ve worked on systems for government institutions** — projects that demand high levels of security, precision, and compliance. <br>
-Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank"> **my own startup**</a>  focused on innovation and technology, while also working as a **researcher at a Federal University**, exploring the connection between software development and health. <br>
+Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank"> **my own startup**</a>  focused on innovation and technology, while also working as a **researcher at a Federal University** in Computer Vision and A.I. appling in health tech, exploring the connection between software development and health. <br>
 <br>
 > "Talk is cheap. Show me the code." - Linus Torvalds
 <br>
