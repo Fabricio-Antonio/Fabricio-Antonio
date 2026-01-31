@@ -110,10 +110,16 @@ Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank
     width="350" 
     alt="Fabricio-Antonio most languages" 
   />
-<img src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif"
+<!-- <img src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif"
      width="400px"
      align="right"
-     alt="Coding animation">
+     alt="Coding animation"> -->
+	<img alt="donald-duck-removebg-preview" src="https://github.com/user-attachments/assets/be513a8b-3cab-4f87-9a19-3ffe29f7ea57"
+		width="250px
+		height="250px"
+		alt="donald duck in computer"
+	/>
+
 </div>
 
 <br>
