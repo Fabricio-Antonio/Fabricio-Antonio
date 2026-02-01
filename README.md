@@ -11,7 +11,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
   </a>
 <img width="12" />
-  <a href="https://www.youtube.com/@DevFabricioSantos" target="_blank">
+  <a href="https://www.meus10centavos.com.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="youtube logo"  />
   </a>
 <img width="12" />
