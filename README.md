@@ -27,6 +27,7 @@ Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank
 <br>
 > "Talk is cheap. Show me the code." - Linus Torvalds
 <br>
+Visiti my blog <a href="https://www.meus10centavos.com" target="_blank">meus10centavos.com.br</a> 🌐
 <br>
 <br>
 <div align="left">
