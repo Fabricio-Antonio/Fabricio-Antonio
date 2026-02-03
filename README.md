@@ -107,11 +107,11 @@ Visit my blog <a href="https://www.meus10centavos.com.br" target="_blank">meus10
 </div>
 <br>
 <div align="center">
-  <img 
+  <!-- <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Antonio&layout=compact&bg_color=000000&title_color=ffffff" 
     width="350" 
     alt="Fabricio-Antonio most languages" 
-  />
+  /> -->
 <!-- <img src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif"
      width="400px"
      align="right"
