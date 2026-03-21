@@ -133,33 +133,5 @@ Visit my blog <a href="https://www.meus10centavos.com.br" target="_blank">meus10
 
 <br>
 <br>
-<div align="left">
 
-# 📌 Pinned Repositories
-
-<table>
-	<thead>
-		<tr>
-			<th colspan="2" width="2000" style="text-align: center; font-size: 18px;">
-        ⭐ Give me a star please if you like the project! ⭐
-      </th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/Fabricio-Antonio/TrayOpen">
-      <img src="https://github.com/user-attachments/assets/fae2d448-fbb3-4fb5-adab-640a53f9ddb9" />
-      </a>
-      </td>
-			<td valign="top">
-			<h3> TrayOpen - Electron, JavaScript </h3>
-			<p>TrayOpen is a minimalist desktop app built with ElectronJS, originally created as a playground to explore desktop development and experiment with observability tools like Sentry. What began as a simple study project quickly evolved into a powerful productivity booster for developers — a lightweight yet effective tool designed to streamline daily workflows and reduce context-switching.</p>
-			<a href="https://github.com/Fabricio-Antonio/TrayOpen">
- 			 	<img src="https://img.shields.io/badge/Install%20now!-004b66?style=for-the-badge" alt="TrayOpen">
-			</a>
-			</td>
-		</tr>
-	</tbody>
-</table>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16B8F3&height=120&section=footer"/>
