@@ -114,15 +114,6 @@ Visit my blog <a href="https://www.meus10centavos.com.br" target="_blank">meus10
 </div>
 <br>
 <div align="center">
-  <!-- <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Antonio&layout=compact&bg_color=000000&title_color=ffffff" 
-    width="350" 
-    alt="Fabricio-Antonio most languages" 
-  /> -->
-<!-- <img src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif"
-     width="400px"
-     align="right"
-     alt="Coding animation"> -->
 	<img alt="donald-duck-removebg-preview" src="https://github.com/user-attachments/assets/be513a8b-3cab-4f87-9a19-3ffe29f7ea57"
 		width="250px
 		height="250px"
@@ -133,5 +124,9 @@ Visit my blog <a href="https://www.meus10centavos.com.br" target="_blank">meus10
 
 <br>
 <br>
+<div align="center">
+	
+<img src="https://raw.githubusercontent.com/Fabricio-Antonio/Fabricio-Antonio/output/snake.svg" alt="Snake animation" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16B8F3&height=120&section=footer"/>
