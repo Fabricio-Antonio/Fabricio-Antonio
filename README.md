@@ -7,17 +7,19 @@
 ### Full-Stack Developer | TypeScript | ReactJS | NestJS | React Native 🦆<br>
 ### Research collaborator [@UFAL Federal University of Alagoas](https://ufal.br/)
 #### Degree in Systems Analysis and Development <br>
-  <a href="https://www.linkedin.com/in/fabricio-ss/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
+  <p align="center">
+  <a href="https://www.linkedin.com/in/fabricio-ss/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.meus10centavos.com.br/">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://discord.com/users/donald_duck.dev">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" />
   </a>
-<img width="12" />
-  <a href="https://www.meus10centavos.com.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="youtube logo"  />
-  </a>
-<img width="12" />
-  <a href="https://discord.com/users/donald_duck.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo"  />
-  </a>
+</p>
 <br/>
 <br/>
 <div align="justify">
@@ -42,8 +44,6 @@ Visit my blog <a href="https://www.meus10centavos.com.br" target="_blank">meus10
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
-  <img width="5" />
-  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/mascot/ferris-orig-noshadow.svg" width="45" />
 </div>
 
 <br>
