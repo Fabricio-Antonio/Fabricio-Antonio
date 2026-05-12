@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Fabr%C3%ADcio+Santos%2C+dev+Full-Stack.)](https://git.io/typing-svg)
 
-### Full-Stack Developer | TypeScript | ReactJS | NestJS | React Native 🦆<br>
+### Full-Stack Developer | TypeScript | Python 🦆<br>
 ### Research collaborator [@UFAL Federal University of Alagoas](https://ufal.br/)
 #### Degree in Systems Analysis and Development <br>
   <p align="center">
@@ -24,8 +24,8 @@
 <br/>
 <div align="justify">
   
-I’m Fabrício Santos, a software developer with **+2 years of experience** in building digital solutions that blend design, performance, and scalability. **I’ve worked on systems for government institutions** — projects that demand high levels of security, precision, and compliance. <br>
-Currently, I’m developing <a href="https://github.com/Rotas4Me" target="_blank"> **my own startup**</a>  focused on innovation and technology, while also working as a **researcher at a Federal University** in Computer Vision and A.I. appling in health tech, exploring the connection between software development and health. <br>
+I’m Fabrício Santos, a Software Developer with +2 years of experience building web and mobile applications. Currently working in HealthTech with Computer Vision applied to healthcare at Federal University of Alagoas.
+<br>
 <br>
 > "Talk is cheap. Show me the code." - Linus Torvalds
 <br>
