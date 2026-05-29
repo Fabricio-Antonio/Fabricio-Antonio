@@ -33,6 +33,9 @@ Visit my blog <a href="https://www.meus10centavos.com.br" target="_blank">meus10
 <br>
 <br>
 <br>
+<h3>Certifications</h3>
+  <img src="https://content.cloudthat.com/resources/wp-content/uploads/2023/12/dgt.png" width="100" />
+
 <h3>Languages</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
