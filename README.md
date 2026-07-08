@@ -63,7 +63,7 @@ Visit my blog <a href="https://www.meus10centavos.com.br" target="_blank">meus10
   <img width="5" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original.svg" width="40" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
   <img width="5" />
@@ -81,6 +81,8 @@ Visit my blog <a href="https://www.meus10centavos.com.br" target="_blank">meus10
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40" />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="40" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
@@ -93,6 +95,8 @@ Visit my blog <a href="https://www.meus10centavos.com.br" target="_blank">meus10
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=prisma" width="40" />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="40" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" width="40" />
@@ -101,7 +105,7 @@ Visit my blog <a href="https://www.meus10centavos.com.br" target="_blank">meus10
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="40" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postman" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" />
   <img width="5" />
