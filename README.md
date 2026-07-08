@@ -57,6 +57,8 @@ Visit my blog <a href="https://www.meus10centavos.com.br" target="_blank">meus10
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="40" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
   <img width="5" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" />
