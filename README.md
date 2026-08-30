@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Fabr%C3%ADcio+Santos%2C+dev+Full-Stack.)](https://git.io/typing-svg)
 
 ### Full-Stack Developer | TypeScript | Python 🦆<br>
-### Research collaborator [@UFAL Federal University of Alagoas](https://ufal.br/)
+### Research collaborator [@UFAL Federal University of Alagoas](http://lattes.cnpq.br/1340990776697899)
 #### Degree in Systems Analysis and Development <br>
   <p align="center">
   <a href="https://www.linkedin.com/in/fabricio-ss/">
